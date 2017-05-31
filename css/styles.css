@@ -1,4 +1,8 @@
 li {
 font-size: 24px;
-color: #d8be55;  
+color: #d8be55;
+}
+
+.btn {
+  border-radius: 4px;
 }
